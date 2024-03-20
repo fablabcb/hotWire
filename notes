@@ -1,0 +1,15 @@
+Doc
+
+isr - interrupt service routine
+
+Rückseite Gehäuse
+    links: Stromversorgung Stab
+    rechts: heißer Draht + Endanschlag
+Oberseite Gehäuse
+    Großer Knopp zum Starten der Zeit (1)
+    die beiden vorne sind angeschlossen (2+3), aber mehr erstmal nicht notwendig
+
+
+Next/Ideen:
+- Highscore implementieren und Events anbinden
+- Wecker an der Holzplatte fixieren (BENE!)
